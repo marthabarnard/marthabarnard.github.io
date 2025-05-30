@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: PhD Candidate in Biostatistics <br> NSF Graduate Research Fellow 
 
