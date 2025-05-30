@@ -6,6 +6,4 @@ nav: true
 nav_order: 5
 cv_pdf: MBarnard_CV_May2025.pdf # you can also use external links here
 description:
-toc:
-  sidebar: left
 ---
