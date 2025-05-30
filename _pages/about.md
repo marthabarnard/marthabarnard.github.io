@@ -2,11 +2,11 @@
 layout: about
 title: home
 permalink: /
-subtitle: PhD Candidate \n University of Minnesota, Division of Biostatistics and Health Data Science
+subtitle: PhD Candidate \ University of Minnesota, Division of Biostatistics and Health Data Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: website_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>email: barna126@umn.edu</p>
