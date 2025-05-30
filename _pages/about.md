@@ -2,7 +2,8 @@
 layout: about
 title: home
 permalink: /
-subtitle: PhD Candidate \ University of Minnesota, Division of Biostatistics and Health Data Science
+subtitle: PhD Candidate 
+University of Minnesota, Division of Biostatistics and Health Data Science
 
 profile:
   align: right
