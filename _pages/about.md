@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Martha Barnard and I am a PhD candidate in Biostatistics at the University of Minnesota, Division of Biostatistics and Health Data Science. My research interests include clustering and machine learning, statistical methods for mobile health data, and causal inference. Previously, I was a post-bachelor research and Los Alamos National Lab working on infectious disease modeling. I graduated with B.A. in Mathematics from St. Olaf College in 2021.
-**I am on the academic job market in 2025-2026**.
+Hi, my name is Martha Barnard and I am a PhD candidate in Biostatistics at the University of Minnesota, Division of Biostatistics and Health Data Science. My research interests include clustering and machine learning, statistical methods for mobile health data, and causal inference. Previously, I was a post-bachelor research and Los Alamos National Lab working on infectious disease modeling. I graduated with B.A. in Mathematics from St. Olaf College in 2021. \
+**I am interested in postdoctoral positions starting summer/fall 2026**.
 
 <!---
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
