@@ -2,8 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: PhD Candidate 
-University of Minnesota, Division of Biostatistics and Health Data Science
+subtitle: PhD Candidate in Biostatistics <br> University of Minnesota
 
 profile:
   align: right
@@ -15,19 +14,9 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, my name is Martha Barnard and I am a PhD candidate in Biostatistics at the University of Minnesota, Division of Biostatistics and Health Data Science. My research interests include clustering and machine learning, statistical methods for mobile health data, and causal inference. Previously, I was a post-bachelor research and Los Alamos National Lab working on infectious disease modeling. I graduated with B.A. in Mathematics from St. Olaf College in 2021. \
+Hi, my name is Martha Barnard and I am a PhD candidate in Biostatistics at the University of Minnesota, Division of Biostatistics and Health Data Science. My research interests include clustering and machine learning, statistical methods for mobile health data, and causal inference. Previously, I was a post-bachelor research and Los Alamos National Lab working on infectious disease modeling and I graduated with B.A. in Mathematics from St. Olaf College in 2021. \
 **I am interested in postdoctoral positions starting summer/fall 2026**.
 
 <!---
