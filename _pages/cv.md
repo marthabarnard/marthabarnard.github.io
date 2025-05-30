@@ -5,6 +5,6 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: MBarnard_CV_May2025.pdf # you can also use external links here
-description: You can access a pdf of my CV above, or see my [Google Scholar page](https://scholar.google.com/citations?user=CqzDWAsAAAAJ).
+description: You can access a pdf of my CV above.
 ---
 
