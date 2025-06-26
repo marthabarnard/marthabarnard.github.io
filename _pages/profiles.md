@@ -4,7 +4,7 @@ permalink: /Research/
 title: Research
 description: 
 nav: true
-nav_order: 1
+nav_order: 2
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
