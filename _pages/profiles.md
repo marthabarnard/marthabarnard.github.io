@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /Research Interestes/
-title: Research Interests
+permalink: /Research/
+title: Research
 description: 
 nav: true
-nav_order: 7
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
