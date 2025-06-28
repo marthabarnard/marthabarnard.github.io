@@ -21,6 +21,6 @@ profiles:
     content: overlap.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Set of potential estimands characterized by their corresponding
-      <a href="https://arxiv.org/abs/2410.12093">estimand mismatch and statistical bias</a>
+      Data-driven characterization of the set of potential estimands to 
+      <a href="https://arxiv.org/abs/2410.12093">select a performance estimand</a>
 ---
