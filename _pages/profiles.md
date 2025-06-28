@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /Research/
-title: Research
+title: Methodological Research
 description: Research overview coming soon!
 nav: true
 nav_order: 2
