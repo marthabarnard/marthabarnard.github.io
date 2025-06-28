@@ -1,1 +1,0 @@
-Research description coming soon!
