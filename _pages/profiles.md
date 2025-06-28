@@ -21,6 +21,7 @@ profiles:
     content: overlap.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Data-driven characterization of the set of potential estimands to 
-      <a href="https://arxiv.org/abs/2410.12093">select a performance estimand</a>
+      Characterization of the set of potential estimands for 
+      <a href="https://arxiv.org/abs/2410.12093">selecting a performance estimand</a>
+      under positivity violations
 ---
