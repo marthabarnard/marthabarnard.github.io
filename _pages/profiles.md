@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /Research/
 title: Research
-description: Research overview coming soon!
+description: My current research focuses on developing causal inference and statistical and machine learning methods for large observational studies, generally, and mobile health data (e.g., accelerometer, heart rate, and GPS tracking data, etc.), specifically. I am especially interested in constructing methods that are both rigorous and flexible such that they are accessible to healthcare professionals and can be tailored to various research questions of interest. More specifics about the data and problems that motivate my current work can be found below.
 nav: true
 nav_order: 2
 
