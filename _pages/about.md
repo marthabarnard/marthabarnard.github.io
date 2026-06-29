@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Incoming Postdoctoral Researcher
+subtitle: Postdoctoral Researcher
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Martha Barnard and starting in August I will be a postdoctoral researcher in the Wharton Causal Data Science Lab at the Department of Statistics and Data Science at the University of Pennsylvania working with Dylan Small. I recieved by PhD in Biostatistics in May 2026 from the University of Minnesota where I was fortunate to be advised by Jared Huling and Julian Wolfson. My research interests include the analysis of observational studies, causal inference, and methodology for mobile and wearable device data.
+Hi, my name is Martha Barnard and I am an incoming postdoctoral researcher in the Wharton Causal Data Science Lab at the Department of Statistics and Data Science at the University of Pennsylvania working with Dylan Small. I recieved by PhD in Biostatistics in May 2026 from the University of Minnesota where I was fortunate to be advised by Jared Huling and Julian Wolfson and supported by an NSF Graduate Research Fellowship. My research interests include the analysis of observational studies, causal inference, and methodology for mobile and wearable device data.
 
 <!---
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
