@@ -42,14 +42,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%61%72%6E%61%31%32%36@%75%6D%6E.%65%64%75", "_blank");
+          window.open("mailto:%6D%62%61%72%6E%61%72%64@%77%68%61%72%74%6F%6E.%75%70%65%6E%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/m-barnard", "_blank");
+          window.open("https://github.com/marthabarnard", "_blank");
         },
       },{
         id: 'social-linkedin',
