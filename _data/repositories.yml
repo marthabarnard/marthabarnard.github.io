@@ -3,3 +3,4 @@ repo_description_lines_max: 2
 github_repos:
   - marthabarnard/amdc_clustering
   - marthabarnard/estimand_selection
+  - marthabarnard/causal_functional_stochastic
